@@ -37,7 +37,8 @@ CHECK_URL = "https://www.google.com"<br>
 <br>
 #Change this interval to whatever you want<br>
 CHECK_INTERVAL = 5  # seconds<br>
-#----------CONFIGURATION END--------------------<br>
+#----------CONFIGURATION END--------------------<be>
+<br>
 <br>
 Copyright (c) 2023 Pavlo Sidelov www.sidelov.com<br>
 <br>
